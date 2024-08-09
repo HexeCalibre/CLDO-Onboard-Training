@@ -1,6 +1,21 @@
 # How to Assign Yourself in Meta Business for Chat Responses
 
-Follow these steps to ensure you're properly assigned before responding to chat inquiries on Meta Business:
+## Introduction
+
+This documentation is created to emphasize the importance of performance grading within our team. One of our key duties and responsibilities is to promptly answer and respond to client inquiries. To accurately assess and grade individual performance, it's crucial that each team member follows the procedure outlined here. By assigning yourself to inquiries before engaging with clients, we ensure that every interaction is traceable and accountable.
+
+### Why This Process Matters
+
+- **:mag_right: Traceability:** By assigning yourself to a chat or inquiry, we create a clear record of who is handling each client interaction. This allows for better tracking of responses and ensures that no inquiries fall through the cracks.
+
+- **:chart_with_upwards_trend: Accountability:** Assigning inquiries also promotes accountability. When you take ownership of a client interaction, you are responsible for providing accurate and timely responses, which directly impacts your performance evaluation.
+  
+- **:bar_chart: Performance Monitoring:** This process allows us to monitor individual and team performance more effectively. By tracking who responds to inquiries, we can evaluate response times, quality of service, and overall productivity.
+
+### :question: How Do We Measure This?
+- *Work in progres...*
+
+### Step-by-Step Guide
 
 ### 1. :lock: Access Admin Facebook
    - Make sure you are logged into the Facebook account with admin access to the page.
@@ -35,5 +50,11 @@ Follow these steps to ensure you're properly assigned before responding to chat 
 
 ### 9. :speech_balloon: Start Responding to Assigned Chats/Messages
    - Begin responding to the chat messages that are now assigned to you.
+
+## Benefits of This Process
+
+- **Enhanced Performance Grading:** By following this process, we can objectively measure each team member's contribution to handling client inquiries.
+- **Improved Team Accountability:** Clear ownership of tasks ensures that every client interaction is handled with care and responsibility.
+- **Streamlined Communication:** This process reduces confusion and overlap, ensuring that each inquiry is addressed by the appropriate person.
 
 **[View Complete Playlist](https://www.youtube.com/playlist?list=PLKiiQskq-B-C7I9krKTh9djlWgjgir1Xt)**
